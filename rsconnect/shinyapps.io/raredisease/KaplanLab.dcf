@@ -1,0 +1,12 @@
+name: KaplanLab
+title: KaplanLab
+username: raredisease
+account: raredisease
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10735461
+bundleId: 8024696
+url: https://raredisease.shinyapps.io/KaplanLab/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
