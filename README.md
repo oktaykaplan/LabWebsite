@@ -1,4 +1,4 @@
-This is a a website of the Kaplan Lab
+This is the website of the Kaplan Lab
 
 ![figure3](https://github.com/oktaykaplan/LabWebsite/assets/12661265/34f1163f-193b-4c86-8b66-43ddf20ed518)
 
